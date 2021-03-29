@@ -3,7 +3,7 @@ The following guide assumes that you have Git and Docker installed already, as i
 
 1. Clone this repository locally to your machine.
 ```
-git clone https://github.com/mfanfancda/malserver.git
+git clone https://github.com/CriticalDesignAssociatesInc/devsecops-malserver.git
 ```
 
 2. Change directories to the cloned repo folder.
